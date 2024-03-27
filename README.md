@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/cs50victor/cs50victor/main/README.md
+![](https://komarev.com/ghpvc/?username=cs50victor&color=gray)
