@@ -4,4 +4,4 @@
 
 ![](https://img.shields.io/github/stars/cs50victor?affiliations=OWNER&style=plastic&label=project_stars&color=0D1116)
 
-- `rust, python, c / c++ , typescript`
+`rust, python, c / c++ , typescript`
