@@ -6,8 +6,10 @@
 
 - `rust, python, c / c++ , typescript`
 
-- > “Happiness is the absence of the striving for happiness.” — Zhuangzi
+- “if you move fast enough you can overcome gravity regardless of how heavy you are.”
 
-- > “To be truly happy and contented, you must let go of the idea of what it means to be truly happy or content. ” – Liezi
+- “Happiness is the absence of the striving for happiness.” — Zhuangzi
 
-- > “If a branch is too rigid, it will break. Resist, and you will perish. Know how to yield, and you will survive.” — Liezi
+- “To be truly happy and contented, you must let go of the idea of what it means to be truly happy or content. ” – Liezi
+
+- “If a branch is too rigid, it will break. Resist, and you will perish. Know how to yield, and you will survive.” — Liezi
