@@ -1,3 +1,6 @@
+> “There is no greater agony than bearing an untold story inside you.”  
+> — Maya Angelou
+
 <!---
 ![](https://komarev.com/ghpvc/?username=cs50victor&color=0D1116&style=plastic&label=profile_views) 
 -->
